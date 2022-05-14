@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+.vscode
+resources/
+scratch/
+models/
+secret*
+
+env
+
+*.pyc
+__pycache__
+.~lock*
